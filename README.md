@@ -14,6 +14,9 @@ enter the valuers.then do the program
 this program is executed successfully
 ## Program:
 ```
+#Program to find the rank of a matrix.
+#Developed by: varsha.G
+#RegisterNumber:22002003
 import numpy as np
 A=np.array([[1,2,3],[3,6,9]])
 rank=np.linalg.matrix_rank(A)
